@@ -1,9 +1,11 @@
-%%%%%%%S1DS EDIT%%%%%%%%%%%%
-%%%%%%%THIS IS NOT ORIGINAL COPY %%%%%%%%%%%%%%
+%%%%%%%    S1DS EDIT    %%%%%%%%%%%%
+
+
+%%%%%%%    THIS IS NOT ORIGINAL COPY %%%%%%%%%%%%%%
 
 
 
-WILL UPLOAD MY ACHIEVINGS WITH COMFYHUI HERE
+WILL UPLOAD MY ACHIEMENTS WITH COMFYHUI HERE
 
 
 ![ComfyUI_00114_](https://github.com/s1d40/ComfyUI/assets/73616188/d2925ce9-ae50-4e92-88ff-c61aa9a571df)
