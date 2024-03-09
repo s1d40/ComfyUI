@@ -5,9 +5,8 @@
 
 WILL UPLOAD MY ACHIEVINGS WITH COMFYHUI HERE
 
-[ComfyUI_00114_](https://github.com/s1d40/ComfyUI/assets/73616188/a743e13b-0a98-4f53-abc2-f2045e35e4bc)
 
-
+![ComfyUI_00114_](https://github.com/s1d40/ComfyUI/assets/73616188/d2925ce9-ae50-4e92-88ff-c61aa9a571df)
 
 
 https://github.com/s1d40/ComfyUI/assets/73616188/9775a1b8-9d80-4ed8-b52b-5f6b31076d7c
